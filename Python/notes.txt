@@ -1,0 +1,21 @@
+Python : Compiler & Interpreter:
+Compiler : it executes the whole program at once 
+Interpreter : it executes the program in line by line style
+
+Operators:
+1.Arithmetical Operators : +,-,/,*,%,**,//
+2.relational operator >,<,>=,<=,==,!=
+3.logical - and , or , not
+
+4.assigment
+5.bitwise - binary (0,1)
+6.membership operator
+7.Identity Operator
+
+Conditional Statement:
+Decision Making
+if condition - if  - one condition
+if else - 2 
+ladder if else >2
+nested if else
+match case
